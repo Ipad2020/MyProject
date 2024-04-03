@@ -1,0 +1,16 @@
+.olitems{color:green;}
+
+#centeralign{text-align:center;}
+
+/*COpied from internet, need to learn*/
+.img {
+    border-radius: 20px;
+    width: 500px;
+  }
+
+  *{background-color:lightgoldenrodyellow;}
+
+  .householdimg{
+    border-radius:20px;
+    width:200px;
+  }
