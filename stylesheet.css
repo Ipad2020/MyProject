@@ -4,13 +4,11 @@
 
 /*COpied from internet, need to learn*/
 .img {
+    border: solid grey 5px;
     border-radius: 20px;
     width: 500px;
   }
 
   *{background-color:beige;}
 
-  .householdimg{
-    border-radius:20px;
-    width:200px;
-  }
+  .heading{background-color: bisque;}
